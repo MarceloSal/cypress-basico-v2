@@ -24,21 +24,11 @@ Or, run `npm run cy:open` to open Cypress in interactive mode.
 Ou execute `npm run cy:open` para abrir o Cypress no modo interativo.
 
 ## Testes que serão efetuados 
-Markup :  `code()`
-    var specificLanguage_code = 
-    {
-        "data": {
-            "lookedUpPlatform": 1,
-            "query": "Kasabian+Test+Transmission",
-            "lookedUpItem": {
-                "name": "Test Transmission",
-                "artist": "Kasabian",
-                "album": "Kasabian",
-                "picture": null,
-                "link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
-            }
-        }
-    }
+
+Left aligned Header | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
 
 Validação de campos obrigatórios.
 
