@@ -23,6 +23,29 @@ Execute `npm test` (ou `npm t` para a versão curta) para executar o teste no mo
 Or, run `npm run cy:open` to open Cypress in interactive mode.
 Ou execute `npm run cy:open` para abrir o Cypress no modo interativo.
 
+## Testes que serão efetuados 
+
+Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
+
+Validação de campos obrigatórios.
+
+Campos de seleção - opções estão todas disponíveis?
+
+Campos numéricos - não pode aceitar letras.
+
+campos de texto - não pode aceitar numeros (ex: nome)
+
+campo de email - validação de simbolo(@)
+
+Cep - API - esta trazendo o logradouro? validação cep inválido.
+
+Campos de checkbox 
+
+botão de criação do municipe. Salva? 
 ___
 
-This project was created by [Bruno Alves and Marcelo Salmeron].
+This Test was created by [Bruno Alves and Marcelo Salmeron].
+Esse Teste foi criado por [Bruno Alves and Marcelo Salmeron].
